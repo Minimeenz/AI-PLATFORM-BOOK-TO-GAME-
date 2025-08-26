@@ -2,8 +2,8 @@
 
 This repository contains the **manual Python coding (~5%)** that was integrated into the **R42 AI Book-to-Game Platform** during the Summer 2025 Fellowship.  
 The majority of the platform (95%) was developed using **AI-driven coding via Lovable and Rosebud AI**, while this script demonstrates the small but essential custom contributions.
-
----
+Herre is the link to the AI platform: [
+](https://preview--book-to-game-verse-65.lovable.app/)---
 
 ## 📂 File: `manual_glue_code.py`
 
